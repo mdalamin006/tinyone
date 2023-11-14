@@ -157,7 +157,7 @@ header {
 }
 
 .para-color {
-    color: #898989;
+    color: #898989 !important;
 }
 
 .c-input {
